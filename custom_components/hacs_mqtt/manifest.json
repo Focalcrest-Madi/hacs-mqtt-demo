@@ -1,0 +1,10 @@
+{
+  "domain": "mqtt_sensor",
+  "name": "MQTT Sensor",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/Focalcrest-Madi/hacs-mqtt-demo",
+  "iot_class": "local_polling",
+  "requirements": ["paho-mqtt==1.5.1"],
+  "version": "1.0.0"
+}
